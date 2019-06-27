@@ -1,94 +1,94 @@
 const hogs = [
   {
-    name: 'Mudblood',
-    specialty: 'Mediocre magic',
+    name: "Mudblood",
+    specialty: "Mediocre magic",
     greased: false,
-    'weight as a ratio of hog to LG - 24.7 Cu. Ft. French Door Refrigerator with Thru-the-Door Ice and Water': 2.0,
-    'highest medal achieved': 'bronze'
+    weight: 2.0,
+    medal: "bronze"
   },
   {
-    name: 'Porkchop',
-    specialty: 'Making friends',
+    name: "Porkchop",
+    specialty: "Making friends",
     greased: true,
-    'weight as a ratio of hog to LG - 24.7 Cu. Ft. French Door Refrigerator with Thru-the-Door Ice and Water': 1.6,
-    'highest medal achieved': 'silver'
+    weight: 1.6,
+    medal: "silver"
   },
   {
-    name: 'Cherub',
-    specialty: 'truffle finder',
+    name: "Cherub",
+    specialty: "truffle finder",
     greased: false,
-    'weight as a ratio of hog to LG - 24.7 Cu. Ft. French Door Refrigerator with Thru-the-Door Ice and Water': 0.7,
-    'highest medal achieved': 'gold'
+    weight: 0.7,
+    medal: "gold"
   },
   {
-    name: 'Piggy smalls',
-    specialty: 'Massivity',
+    name: "Piggy smalls",
+    specialty: "Massivity",
     greased: true,
-    'weight as a ratio of hog to LG - 24.7 Cu. Ft. French Door Refrigerator with Thru-the-Door Ice and Water': 5.1,
-    'highest medal achieved': 'platinum'
+    weight: 5.1,
+    medal: "platinum"
   },
   {
-    name: 'Trouble',
-    specialty: 'Racing',
+    name: "Trouble",
+    specialty: "Racing",
     greased: true,
-    'weight as a ratio of hog to LG - 24.7 Cu. Ft. French Door Refrigerator with Thru-the-Door Ice and Water': 1.7,
-    'highest medal achieved': 'gold'
+    weight: 1.7,
+    medal: "gold"
   },
   {
-    name: 'Sobriety',
-    specialty: 'Expert Witness',
+    name: "Sobriety",
+    specialty: "Expert Witness",
     greased: false,
-    'weight as a ratio of hog to LG - 24.7 Cu. Ft. French Door Refrigerator with Thru-the-Door Ice and Water': 2.2,
-    'highest medal achieved': 'silver'
+    weight: 2.2,
+    medal: "silver"
   },
   {
-    name: 'Rainbowdash',
-    specialty: 'Union Busting',
+    name: "Rainbowdash",
+    specialty: "Union Busting",
     greased: false,
-    'weight as a ratio of hog to LG - 24.7 Cu. Ft. French Door Refrigerator with Thru-the-Door Ice and Water': 3.7,
-    'highest medal achieved': 'wood'
+    weight: 3.7,
+    medal: "wood"
   },
   {
-    name: 'TruffleShuffle',
-    specialty: 'Finding truffles',
+    name: "TruffleShuffle",
+    specialty: "Finding truffles",
     greased: true,
-    'weight as a ratio of hog to LG - 24.7 Cu. Ft. French Door Refrigerator with Thru-the-Door Ice and Water': 4.0,
-    'highest medal achieved': 'gold'
+    weight: 4.0,
+    medal: "gold"
   },
   {
-    name: 'Bay of Pigs',
-    specialty: 'Hamphlet Distribution',
+    name: "Bay of Pigs",
+    specialty: "Hamphlet Distribution",
     greased: false,
-    'weight as a ratio of hog to LG - 24.7 Cu. Ft. French Door Refrigerator with Thru-the-Door Ice and Water': 2.8,
-    'highest medal achieved': 'diamond'
+    weight: 2.8,
+    medal: "diamond"
   },
   {
-    name: 'The Prosciutto Concern',
-    specialty: 'truffle finder',
+    name: "The Prosciutto Concern",
+    specialty: "truffle finder",
     greased: false,
-    'weight as a ratio of hog to LG - 24.7 Cu. Ft. French Door Refrigerator with Thru-the-Door Ice and Water': 2.3,
-    'highest medal achieved': 'bronze'
+    weight: 2.3,
+    medal: "bronze"
   },
   {
-    name: 'Galaxy Note',
-    specialty: 'Airport Security',
+    name: "Galaxy Note",
+    specialty: "Airport Security",
     greased: true,
-    'weight as a ratio of hog to LG - 24.7 Cu. Ft. French Door Refrigerator with Thru-the-Door Ice and Water': 1.9,
-    'highest medal achieved': 'diamond'
+    weight: 1.9,
+    medal: "diamond"
   },
   {
-    name: 'Leggo My Eggo',
-    specialty: 'Babysitting',
+    name: "Leggo My Eggo",
+    specialty: "Babysitting",
     greased: true,
-    'weight as a ratio of hog to LG - 24.7 Cu. Ft. French Door Refrigerator with Thru-the-Door Ice and Water': 3.3,
-    'highest medal achieved': 'platinum'
+    weight: 3.3,
+    medal: "platinum"
   },
   {
-    name: 'Augustus Gloop',
-    specialty: 'Vacuum tubes',
+    name: "Augustus Gloop",
+    specialty: "Vacuum tubes",
     greased: true,
-    'weight as a ratio of hog to LG - 24.7 Cu. Ft. French Door Refrigerator with Thru-the-Door Ice and Water': 4.1,
-    'highest medal achieved': 'wood'
+    weight: 4.1,
+    medal: "wood"
   }
 ];
 
